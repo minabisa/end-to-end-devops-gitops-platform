@@ -225,7 +225,7 @@ kubectl apply -f argocd/application.yaml
 
 ### 🔁 Argo CD GitOps Sync
 
-![ArgoCD](images/argocd-synced)
+![ArgoCD](images/argocd-synced.png)
 
 ---
 
