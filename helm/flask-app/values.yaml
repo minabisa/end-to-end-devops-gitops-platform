@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: minabisa90/devops-gitops-flask
-  tag: v1
+  tag: v2
   pullPolicy: Always
 
 service:
