@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/minabisa90/end-to-end-devops-gitops-platform.git
+    repoURL: https://github.com/minabisa/end-to-end-devops-gitops-platform.git
     targetRevision: main
     path: helm/flask-app
 
