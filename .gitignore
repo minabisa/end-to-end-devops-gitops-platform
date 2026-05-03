@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.pem
+.env
+.DS_Store
+kubeconfig
+__pycache__/
+*.log
