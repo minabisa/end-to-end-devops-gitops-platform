@@ -177,19 +177,19 @@ kubectl apply -f argocd/application.yaml
 
 ### 🏗️ Terraform Infrastructure
 
-![Terraform](images/terraform.png)
+![Terraform](images/terraform-apply.png)
 
 ---
 
 ### ⚙️ Ansible Configuration
 
-![Ansible](images/ansible.png)
+![Ansible](images/ansible-success.png)
 
 ---
 
 ### 🐳 Docker Image (DockerHub)
 
-![Docker](images/docker.png)
+![Docker](images/dockerhub-image.png)
 
 ---
 
@@ -219,13 +219,13 @@ kubectl apply -f argocd/application.yaml
 
 ### 📊 Grafana Dashboard
 
-![Grafana](images/grafana.png)
+![Grafana](images/grafana-dashboard.png)
 
 ---
 
 ### 🔁 Argo CD GitOps Sync
 
-![ArgoCD](images/argocd.png)
+![ArgoCD](images/argocd-synced)
 
 ---
 
